@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/sorteos/"
+  base: "https://AnthonyCconislla.github.io/sorteo-en-linea"
 })
